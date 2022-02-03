@@ -28,10 +28,9 @@ const Layout = ({ children }) => {
     <>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+      <footer className="reversed-bg-color py-5 text-center">
+        <p>© {new Date().getFullYear()}, Social Butterfly Savannah</p>
+        <p>Site designed by <a href="https://nautilusdesigns.com">Nautilus Designs</a></p>
       </footer>
     </>
   )

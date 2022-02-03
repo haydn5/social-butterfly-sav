@@ -13,7 +13,7 @@ import { BgImage } from 'gbimage-bridge'
 
 const IndexPage = ({data}) => (
   <Layout>
-    <Seo title="Home" />
+    <Seo title="Social Media That Truly Flies" />
     <div className="logoColor bottom-color-border">
       <Container>
         <div className="d-md-flex justify-content-center align-items-center ">
@@ -106,13 +106,15 @@ const IndexPage = ({data}) => (
         </Col>
         <Col lg={1}></Col>
         <Col lg={5}>
+        <p className="text-center">
         <StaticImage
             src="../images/montana-portrait.jpg"
             width={400}
             quality={85}
             formats={["auto", "webp", "avif"]}
-            alt="A Gatsby astronaut"
+            alt="Portrait of Montana Tohm"
           />
+        </p>
         </Col>
         </Row>
       </Container>
@@ -121,16 +123,16 @@ const IndexPage = ({data}) => (
       <h2 className="text-center">Work with Savannah's Social Butterfly</h2>
       <p className="text-center">and take your social media to the next level with Montana's expertise.</p>
       <Form 
-                        name="contact v9"
+                        name="contact"
                         method="post"
-                        action="/success/"
+                        action="/contact-success/"
                         data-netlify="true"
                         data-netlify-honeypot="bot-field"
                         onSubmit="submit"
                     >
                       <hr />
                     {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                    <input type="hidden" name="form-name" value="contact v9" />
+                    <input type="hidden" name="form-name" value="contact" />
                     <p hidden>
                     <label>
                         Don’t fill this out: <input name="bot-field" />
@@ -191,6 +193,40 @@ const IndexPage = ({data}) => (
                         <Button type="submit" className="btn-dark">Submit</Button>
                         </Form>
     </Container>
+    <div className="reversed-bg-color breathing-room">
+      <p className="lead text-center">Onsite photography available</p>
+      <Container>
+        <Row>
+        <Col xs={4}>
+          <StaticImage
+            src="../images/savannah-01.jpg"
+            width={400}
+            quality={85}
+            formats={["auto", "webp", "avif"]}
+            alt="A Gatsby astronaut"
+          />
+        </Col>
+        <Col xs={4}>
+          <StaticImage
+            src="../images/savannah-02.jpg"
+            width={400}
+            quality={85}
+            formats={["auto", "webp", "avif"]}
+            alt="A Gatsby astronaut"
+          />
+        </Col>
+        <Col xs={4}>
+          <StaticImage
+            src="../images/savannah-03.jpg"
+            width={400}
+            quality={85}
+            formats={["auto", "webp", "avif"]}
+            alt="A Gatsby astronaut"
+          />
+        </Col>
+        </Row>
+      </Container>
+    </div>
   </Layout>
 )
 
