@@ -29,7 +29,7 @@ const IndexPage = ({data}) => (
             width={300}
             quality={85}
             formats={["auto", "webp", "avif"]}
-            alt="A Gatsby astronaut"
+            alt="Screen Shot of Humane Society for Greater Society Facebook Page"
           />
           </div>
 
@@ -57,7 +57,7 @@ const IndexPage = ({data}) => (
             width={400}
             quality={85}
             formats={["auto", "webp", "avif"]}
-            alt="A Gatsby astronaut"
+            alt="Screen Shot of Humane Society of Greater Savannah's instagram page"
           />
         </Col>
         <Col lg={1}></Col>
@@ -106,15 +106,15 @@ const IndexPage = ({data}) => (
         </Col>
         <Col lg={1}></Col>
         <Col lg={5}>
-        <p className="text-center">
-        <StaticImage
-            src="../images/montana-portrait.jpg"
-            width={400}
-            quality={85}
-            formats={["auto", "webp", "avif"]}
-            alt="Portrait of Montana Tohm"
-          />
-        </p>
+          <p className="text-center text-md-start">
+            <StaticImage
+                src="../images/montana-portrait.jpg"
+                width={400}
+                quality={85}
+                formats={["auto", "webp", "avif"]}
+                alt="Portrait of Montana Tohm"
+              />
+          </p>
         </Col>
         </Row>
       </Container>
@@ -203,7 +203,7 @@ const IndexPage = ({data}) => (
             width={400}
             quality={85}
             formats={["auto", "webp", "avif"]}
-            alt="A Gatsby astronaut"
+            alt="chairs around a fire pit at sunset"
           />
         </Col>
         <Col xs={4}>
@@ -212,7 +212,7 @@ const IndexPage = ({data}) => (
             width={400}
             quality={85}
             formats={["auto", "webp", "avif"]}
-            alt="A Gatsby astronaut"
+            alt="live oaks of Savannah Georgia"
           />
         </Col>
         <Col xs={4}>
@@ -221,7 +221,7 @@ const IndexPage = ({data}) => (
             width={400}
             quality={85}
             formats={["auto", "webp", "avif"]}
-            alt="A Gatsby astronaut"
+            alt="One of the squares of Savannah, Georgia"
           />
         </Col>
         </Row>
