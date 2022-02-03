@@ -4,6 +4,11 @@
     background-color: #F6E9DE;
 }
 
+.reversed-bg-color {
+    background-color: #091621;
+    color: #F6E9DE;
+}
+
 .singleCol {
     max-width: 750px;
     margin: 0 auto;
@@ -45,6 +50,17 @@ p strong {
 .breathing-room {
     padding-top: 10rem;
     padding-bottom: 10rem;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+form .form-label, form button {
+    margin: 0;
+    padding: 0;
+    margin-top: .5rem;
 }
 
 /* // Small devices (landscape phones, less than 768px) */
