@@ -45,7 +45,7 @@ const IndexPage = ({data}) => (
         
         <Col lg={5}>
           <h2>Go Beyond Posts</h2>
-          <p className="lead">Social Media is so much more than just posting a photo. It allows you to efficiently engage with your community on a scale like never before. Data shows optimizing social media directly and vastly impacts the financial growth and awareness of your business. We keep our clients informed and up to date with monthly progress reports on how their brand is growing. Our two major focuses are brand development and community awareness. Your business should truly be social, reels, stories, hashtags, correct links in bio quizzes & community engagement are the norm when you choose to use Social Butterfly Savannah. Spread your wings and fly with us to next level. </p>
+          <p className="lead">Social Media is so much more than just posting a photo. It allows you to efficiently engage with your community on a scale like never before. Data shows optimizing social media directly and vastly impacts the financial growth and awareness of your business. We keep our clients informed and up to date with monthly progress reports on how their brand is growing. Our two major focuses are brand development and community awareness. Your business should truly be social, reels, stories, hashtags, correct links in bio quizzes & community engagement are the norm when you choose to use Social Butterfly Savannah. Spread your wings and fly with us to the next level. </p>
 
           <p className="lead">
             <strong>Due to a strong social media, the HSGS instagram page tripled</strong>, and lead to a dramatic increased awareness of HSGS to the community.
@@ -106,7 +106,7 @@ const IndexPage = ({data}) => (
           <p>Originally from Canada, Montana currently resides in Savannah, Georgia. Before actively managing the HSGS social media accounts, she ran the largest dog sitting & walking company Halifetch in Nova Scotia, Canada.</p>
           <p>
 She spends as much time with animals as she does enjoying  the outdoors. Serving her community has always been a top priority for her, she currently volunteers at the Savannah Wildlife Rescue Center, Fuzzy Therapy Miniature horses and Renegade Paws Rescue. Montana also currently serves on the board of Keep Savannah Beautiful for the city of Savannah, is an active member of the Jaycees and is an Ambassador for the Savannah Chamber of Commerce. 
-She has been featured on The Great Canadian Women Podcast, CEMA (Chatham Emergence Management Agency) Y’all Ready For This Podcast, Mia Mance Trending Topics, Mark Robertson 98.7 The River, CTV, WTOC, WSAV, Fox28, Connect Savannah, Savannah Morning News, WJCL, Pinkblitz Magazine, Ogeechee River Keeper, Savannah Magazine, and Femme Bought. </p>
+She has been featured on The Great Canadian Women Podcast, CEMA (Chatham Emergency Management Agency) Y’all Ready For This Podcast, Mia Mance Trending Topics, Mark Robertson 98.7 The River, CTV, WTOC, WSAV, Fox28, Connect Savannah, Savannah Morning News, WJCL, Pinkblitz Magazine, Ogeechee River Keeper, Savannah Magazine, and Femme Bought. </p>
           <p>
           Montana has most recently been nominated for “Best Resident of Savannah” for 2022 via Connect Savannah. 
           </p>
