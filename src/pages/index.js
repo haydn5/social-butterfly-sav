@@ -45,20 +45,23 @@ const IndexPage = ({data}) => (
         
         <Col lg={5}>
           <h2>Go Beyond Posts</h2>
-          <p className="lead">Social Media is so much more than just posting a photo. It allows you to efficiently engage with your community on a scale like never before. Data shows optimizing social media directly and vastly impacts the financial growth and awareness of your business. We keep our clients informed and up to date with monthly progress reports on how their brand is growing. Our two major focuses are brand development and community awareness. Your business should truly be social, reels, stories, hashtags, correct links in bio quizzes & community engagement are the norm when you choose to use Social Butterfly Savannah. Spread your wings and fly with us to the next level. </p>
-
+          <p className="lead">Social Media is so much more than just posting a photo. It allows you to efficiently engage with your community on a scale like never before. Data shows optimizing your social media directly impacts the financial growth and awareness of your business. </p>
           <p className="lead">
-            <strong>Due to a strong social media, the HSGS instagram page tripled</strong>, and lead to a dramatic increased awareness of HSGS to the community.
-          </p>
+            We keep our clients informed and up-to-date with monthly progress reports on how their brand is growing. Our two major focuses are brand development and community awareness. Your business should truly be social: reels, stories, hashtags, correct link in bio, quizzes, & community engagement are the norm. Spread your wings and fly with us. </p>
+
+          
         </Col>
-        <Col lg={5} className="text-center" xs={{ order: 12 }}>
+        <Col lg={5}>
           <StaticImage
             src="../images/instagram-hsgs-white.jpg"
-            width={400}
+            width={450}
             quality={85}
             formats={["auto", "webp", "avif"]}
             alt="Screen Shot of Humane Society of Greater Savannah's instagram page"
           />
+          <p>
+            <strong>Due to a strong social media, the HSGS instagram page tripled</strong>, and lead to a dramatic increased awareness of HSGS to the community.
+          </p>
         </Col>
         <Col lg={1}></Col>
       </Row>
