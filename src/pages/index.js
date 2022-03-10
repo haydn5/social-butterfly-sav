@@ -20,7 +20,7 @@ const IndexPage = ({data}) => (
           <div className="headerText">
           <h1>Social Media That Truly Flies</h1>
             <p className="lead">
-              Montana took the Humane Society for Greater Savannah to heights beyond exptactions. Nearly 24,000 people actively particiate within the HSGS Facebook page, which lead to more adoptions for the society. 
+              Montana took the Humane Society for Greater Savannah to heights beyond expectations. Nearly 24,000 people actively particiate within the HSGS Facebook page, which lead to more adoptions for the society. 
             </p>
           </div>
           <div className="px-md-5 text-center">
