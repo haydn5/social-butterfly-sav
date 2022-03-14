@@ -108,7 +108,8 @@ const IndexPage = ({data}) => (
           <small>Savannah's Social (Media) Butterfly</small></h1>
           <p>Originally from Canada, Montana currently resides in Savannah, Georgia. Before actively managing the HSGS social media accounts, she ran the largest dog sitting & walking company Halifetch in Nova Scotia, Canada.</p>
           <p>
-She spends as much time with animals as she does enjoying  the outdoors. Serving her community has always been a top priority for her, she currently volunteers at the Savannah Wildlife Rescue Center, Fuzzy Therapy Miniature horses and Renegade Paws Rescue. Montana also currently serves on the board of Keep Savannah Beautiful for the city of Savannah, is an active member of the Jaycees and is an Ambassador for the Savannah Chamber of Commerce. 
+She spends as much time with animals as she does enjoying  the outdoors. Serving her community has always been a top priority for her, she currently volunteers at the Savannah Wildlife Rescue Center, Fuzzy Therapy Miniature horses and Renegade Paws Rescue. Montana also currently serves on the board of Keep Savannah Beautiful for the city of Savannah, is an active member of the Jaycees and is an Ambassador for the Savannah Chamber of Commerce. She is also a board member for the Association of Fundraising Professionals as the Young Professional Chair position</p>
+<p>
 She has been featured on The Great Canadian Women Podcast, CEMA (Chatham Emergency Management Agency) Y’all Ready For This Podcast, Mia Mance Trending Topics, Mark Robertson 98.7 The River, CTV, WTOC, WSAV, Fox28, Connect Savannah, Savannah Morning News, WJCL, Pinkblitz Magazine, Ogeechee River Keeper, Savannah Magazine, and Femme Bought. </p>
           <p>
           Montana has most recently been nominated for “Best Resident of Savannah” for 2022 via Connect Savannah. 
